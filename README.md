@@ -4,7 +4,7 @@ OfSoundMapping
 ![Screenshot](https://github.com/crecord/OfSoundMapping/blob/master/screen.jpg)
 
 
-(a video)[https://www.youtube.com/watch?v=vVhsMn0sYM0&feature=youtu.be] of the sound maps in action. It is really subtle - so wear headphones.
+[a video](https://www.youtube.com/watch?v=vVhsMn0sYM0&feature=youtu.be) of the sound maps in action. It is really subtle - so wear headphones.
 
 Description
 -----------
